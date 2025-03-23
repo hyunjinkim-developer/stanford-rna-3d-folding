@@ -1,4 +1,4 @@
-# stanford-rna-3d-folding
+# Stanford RNA 3D Folding
 Machine learning models to predict an RNA molecule’s 3D structure from its sequence.
 
 Development is ongoing.
